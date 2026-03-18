@@ -2,7 +2,9 @@
 
 **`Software Developer`**
 
-I'm a software developer from Brazil, passionate about back-end engineering. My day-to-day revolves around .NET, and I'm currently diving into cloud and DevOps to strengthen my skills in CI/CD, containerization, and deployment workflows. I have a bachelor's degree in Information Systems and I'm always happy to exchange ideas about tech, career paths, and software engineering.
+I'm a software developer from Brazil, passionate about back-end engineering. My day-to-day revolves around .NET, and I'm currently diving into cloud and DevOps to strengthen my skills in CI/CD, containerization, and deployment workflows.
+
+I have a bachelor's degree in Information Systems and I'm always happy to exchange ideas about tech, career paths, and software engineering.
 
 [LinkedIn](https://www.linkedin.com/in/paulo-henrique-rocha-00b63a211/)
 
