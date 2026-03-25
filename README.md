@@ -103,29 +103,3 @@ I have a bachelor's degree in Information Systems and I'm always happy to exchan
 </p>
 <br/>
 <br/>
-
----
-
-### 📊 Statistics
-
-<table style="width: 100%; border: none; padding: 0;">
-  <tr style="border: none;">
-    <td style="border: none; width: 50%; padding: 0 10px; text-align: left;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=dark&v=1"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=light&v=1"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=dark&v=1"
-          alt="Top Languages"
-          style="max-width: 100%; height: auto;"
-        />
-      </picture>
-    </td>
-  </tr>
-</table>
